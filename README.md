@@ -11,7 +11,6 @@ Hier findest du Erklärungen, bestimmte Befehle und weiteres alles rund um das T
 - [Befehle](#befehle)
 		- [Respository](#respository)
 		- [Start](#start)
-		- [Push](#push)
 		
 		
 		
@@ -46,6 +45,26 @@ Hier findest du Erklärungen, bestimmte Befehle und weiteres alles rund um das T
 
  
 
+<a name ="umgebungsentwicklung"></a>
+### Umgebungsentwicklung
+
+Allgemeine Funktionen:
+- Erstellen von Respositories
+- Arbeiten und Verwalten von Branches
+- Commiten und Pushen von Änderungen
+- Arbeiten mit Pullen
+
+
+
+
+<a name ="bash"></a>
+### Bash
+
+| Funktionen |  Erklärung  |
+| ---------  |  ------     |
+| Befehlszeileninterface | Hier kannst du unterschiedliche Befehle eingeben, die dir helfen durch Git zu navigieren |
+| Git-Befehle | Die Bash untersetützt eine Reihe von verschiedenen Befehlen, die dir helfen um bsp. ein Respository zu erstellen. |
+| Integration mit Windows | Obwohl die Bash auf Git-Shell basiert, lässt es sich hervorragend mit Windows arbeiten.
 
 
 
@@ -55,7 +74,7 @@ Hier findest du Erklärungen, bestimmte Befehle und weiteres alles rund um das T
 
 
 ```javas
-var s = "Java syntax highlighting";
+var s = "Es gibt unterschiedliche Befehle, die dir helfen durch die Dateisystem zu navigieren,Dateien zu löschen oder hinzuzufügen und vieles weiteres";
 alert(s);
 ```
 
@@ -79,23 +98,15 @@ alert(s);
 <a name ="start"></a>
 ## Start
 
- 1. Version überprüfen 
- 2. Benutzernamen setzen[^1].
+ 1. Version überprüfen[^1] 
+ 2. Benutzernamen setzen.
  3. Email Adresse setzen
  4. Einstellungen der Konfiguration
 
+[^1] = Überprüft die installierte Version von Git.
 
-[^1]: Global für Git
 
 
-<a name ="push"></a>
-## Push
-
-| Erklärung |  Befehl   |
-| --------- |  ------   |
-| Erstellt ein Test Respository. | mkdir test |
-| Erstellt eine neue Instanz für das Projekt und _initalisiert_ das Git-Respository | git init |
-| Überprüft den Status des Respository<sup>1</sup>. | git status |
 
 
 
