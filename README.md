@@ -74,7 +74,8 @@ Allgemeine Funktionen:
 
 
 ```javas
-var s = "Es gibt unterschiedliche Befehle, die dir helfen durch die Dateisystem zu navigieren,Dateien zu löschen oder hinzuzufügen und vieles weiteres";
+var s = "
+Git-Befehle ermöglichen das Verfolgen, Hinzufügen, Ändern und Löschen von Dateien innerhalb eines Projekts sowie das Verwalten von Änderungen und das Zurückverfolgen des Verlaufs der Dateien.";
 alert(s);
 ```
 
@@ -104,13 +105,6 @@ alert(s);
  4. Einstellungen der Konfiguration
 
 [^1] = Überprüft die installierte Version von Git.
-
-
-
-
-
-
-
 
 
 
