@@ -12,12 +12,16 @@ Hier findest du Erklärungen, bestimmte Befehle und weiteres alles rund um das T
 		- [Respository] (#respository)
 		- [Start] (#start)
 		- [Push] (#push)
+		
+		
+		
 
 
 
 
 <a name ="anker-zur-definition"></a>
 <a name="definition-link"></a>
+[Anker definieren] (#definition)
 ## Definition
 	Zuerst wird Git allgemein definiert und werde erklären was Git überhaupt
 	ist und wie es zu verwenden ist.
@@ -35,6 +39,7 @@ Hier findest du Erklärungen, bestimmte Befehle und weiteres alles rund um das T
 	
 <a name ="anker-zur-erklaerung"></a>
 <a name="erklaerungen-link"></a>
+[Anker definieren] (#erklaerungen)
 ## Erklärungen
 
 > Hier findet man Erklärungen zu der allgemeinem Umgebung in Git.
@@ -49,6 +54,7 @@ Hier findest du Erklärungen, bestimmte Befehle und weiteres alles rund um das T
 
 <a name ="anker-zur-befehlen"></a>
 <a name="befehle-link"></a>
+[Anker definieren] (#befehle)
 ## Befehle
 
 
@@ -61,6 +67,7 @@ alert(s);
 
 <a name ="anker-zur-respository"></a>
 <a name="respository-link"></a>
+[Anker definieren] (#respository)
 ### Respository
 
 
@@ -75,6 +82,7 @@ alert(s);
 
 <a name ="anker-zur-start"></a>
 <a name="start-link"></a>
+[Anker definieren] (#start)
 ## Start
 
  1. Version überprüfen 
@@ -87,6 +95,7 @@ alert(s);
 
 <a name ="anker-zur-push"></a>
 <a name="push-link"></a>
+[Anker definieren] (#push)
 ## Push
 
 | Erklärung |  Befehl   |
@@ -94,7 +103,6 @@ alert(s);
 | Erstellt ein Test Respository. | mkdir test |
 | Erstellt eine neue Instanz für das Projekt und _initalisiert_ das Git-Respository | git init |
 | Überprüft den Status des Respository<sup>1</sup>. | git status |
-
 
 
 
