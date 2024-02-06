@@ -4,14 +4,14 @@
 
 Hier findest du Erklärungen, bestimmte Befehle und weiteres alles rund um das Thema Git.
 
-- [Definition] (#definition)
-- [Erklärungen] (#erklaerungen)
-		- [Umgebungsentwicklung] (#umgebungsentwicklung)
-		- [Bash] (#bash)
-- [Befehle] (#befehle)
-		- [Respository] (#respository)
-		- [Start] (#start)
-		- [Push] (#push)
+- [Definition](#definition)
+- [Erklärungen](#erklaerungen)
+		- [Umgebungsentwicklung](#umgebungsentwicklung)
+		- [Bash](#bash)
+- [Befehle](#befehle)
+		- [Respository](#respository)
+		- [Start](#start)
+		- [Push](#push)
 		
 		
 		
@@ -96,6 +96,9 @@ alert(s);
 | Erstellt ein Test Respository. | mkdir test |
 | Erstellt eine neue Instanz für das Projekt und _initalisiert_ das Git-Respository | git init |
 | Überprüft den Status des Respository<sup>1</sup>. | git status |
+
+
+
 
 
 
